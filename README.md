@@ -1,6 +1,6 @@
 # Stretched
 
-Prosty, szybki przełącznik rozdzielczości "stretched" (np. 1440×1080 na monitorze 16:9) dla graczy — stworzony z myślą o CS2, ale działa z każdą grą korzystającą z rozdzielczości ekranu Windows.
+Prosty, szybki przełącznik rozdzielczości "stretched" (np. 1440×1080 na monitorze 16:9) dla graczy —  działa z każdą grą korzystającą z rozdzielczości ekranu Windows.
 
 Autor: **szachowyy**
 
